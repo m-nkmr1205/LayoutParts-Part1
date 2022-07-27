@@ -1,2 +1,32 @@
 @charset "UTF-8";
 /* 回答はここから */
+.inline-box {
+  display: inline-block;
+  background: #fff;
+  width: 200px;
+  padding: 20px 0px;
+  font-size: 16px;
+}
+
+.text-align-box {
+  text-align: center;
+}
+
+.text-align {
+  display: inline-block;
+  width: 90px;
+  padding: 10px;
+  background: #a4b3e9;
+}
+
+.margin-box {
+  text-align: center;
+}
+
+.margin {
+  display: inline-block;
+  background: #a4b3e9;
+  width: 90px;
+  margin: auto;
+  padding: 10px;
+}
